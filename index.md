@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Title: Portfolio Manuel Pallarés
 ---
 
